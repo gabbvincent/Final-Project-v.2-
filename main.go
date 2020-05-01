@@ -17,8 +17,8 @@ type maintenance struct {
 
 func Maintain(mileage int){
 
-   // Create an array of 8 maintenance objects, each with a Name and a Miles Trait specific to the users vehicle model by reading 
-   // in from a file that contains the users vehicles information. 
+   // Create an array of 8 maintenance objects, each with a Name and a Miles Trait specific to the user's vehicle model by reading 
+   // in from a file that contains the user's vehicle information. 
 
    //create array of objects
   var  maint [8] maintenance
